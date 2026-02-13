@@ -1,0 +1,92 @@
+body { 
+    font-family: "Rubik", sans-serif !important;
+}
+
+.bg-secondary-success { 
+    background-color: #51B56D !important;
+}
+.text-secondary-success { 
+    color: #51B56D;
+}
+.text-light-success { 
+    color: #E0F2E5;
+}
+.bg-light-success { 
+    background-color: #E0F2E5;
+}
+.navbar div.d-flex a:nth-child(1) { 
+    background-color: #E0F2E5 !important;
+}
+
+.bg-light-purple { 
+    background-color: #E9E4FB;
+}
+.text-purple { 
+    color: #9A7EEB;
+}
+
+.fs-xl { 
+    font-size: 2.8rem !important;
+}
+
+.animate__backInRight , 
+.animate__backInLeft { 
+    animation-duration: 1s;
+}
+
+
+body {
+  font-family: "Rubik", sans-serif !important;
+}
+
+.bg-secondary-success {
+  background-color: #51b56d !important;
+}
+.text-secondary-success {
+  color: #51b56d;
+}
+.text-light-success {
+  color: #e0f2e5;
+}
+.bg-light-success {
+  background-color: #e0f2e5;
+}
+.navbar div.d-flex a:nth-child(1) {
+  background-color: #e0f2e5 !important;
+}
+
+.bg-light-purple {
+  background-color: #e9e4fb;
+}
+.text-purple {
+  color: #9a7eeb;
+}
+
+.fs-xl {
+  font-size: 2.8rem !important;
+}
+
+.animate__backInRight,
+.animate__backInLeft {
+  animation-duration: 1s;
+}
+.icon-box {
+  width: 90px;
+  height: 90px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  font-size: 30px;
+}
+
+.bg-light-purple {
+  background: #f1efff;
+  color: #6b5cff;
+}
+
+.bg-light-green {
+  background: #eaf7ef;
+  color: #2eaf63;
+}
